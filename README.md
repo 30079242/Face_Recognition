@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-cout << "sayna is the best" ;
+cout << "sayna" ;
 }
 // a,b,c,d,e,f,g,h,i,
