@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-cout << "team Bangers" ;
+cout << "disgusting names proposed by abishan and brendon" ;
 }
 // a,b,c,d,e,f,g,h,i,
